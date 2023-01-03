@@ -53,7 +53,7 @@
                             <p class="m-0"><i class="fa fa-envelope-open me-2"></i>pentiing@gmail.com</p>
                         </div>
                         <div class="py-2">
-                            <p class="m-0"><i class="fa fa-phone-alt me-2"></i>081265727890</p>
+                            <p class="m-0"><i class="fa fa-phone-alt me-2"></i>+62-8352-5656-1212</p>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Lainnya</a>
                             <div class="dropdown-menu m-0">
                                 <a href="/blog" class="dropdown-item">Modul</a>
-                                <a href="/detail" class="dropdown-item">Comunitas</a>
+                                <a href="/detail" class="dropdown-item">Komunitas</a>
                                 <a href="/feature" class="dropdown-item">Membership</a>
                                 <a href="/testimonial" class="dropdown-item">Testimonial</a>
                                 <a href="{{ route('logout') }}" class="dropdown-item">logout</a>

@@ -102,6 +102,58 @@
 </div>
 <!-- Features Start -->
 
+    <!-- ======= harga Section ======= -->
+    <section id="harga" class="harga">
+        <div class="container">
+  
+          <div class="section-title">
+            <h2>Harga</h2>
+            <p>
+              Berikut penawaran harga yang kami sediakan disertai dengan fitur yang dapat diakses :
+            </p>
+          </div>
+  
+          <div class="row">
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="box">
+                <h3>Membership Platinum</h3>
+                <h4><sup>Rp</sup>400k</h4>
+                <ul>
+                  <li>Modul</li>
+                  <li>Konsultasi</li>
+                  <li class="na">Komunitas</li>
+
+                </ul>
+                <div class="btn-wrap">
+                  <a href="modal.html" class="btn-buy">Membership</a>
+                </div>
+              </div>
+            </div>
+    
+            <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+              <div class="box">
+                <h3>Membership Gold</h3>
+                <h4><sup>Rp</sup>1000k</h4>
+                <ul>
+                    <li>Modul</li>
+                    <li>Konsultasi</li>
+                    <li>Komunitas</li>
+                  
+                </ul>
+                <div class="btn-wrap">
+                  <a href="modal.html" class="btn-buy">Pesan!</a>
+                </div>
+              </div>
+            </div>
+  
+
+  
+          </div>
+  
+        </div>
+      </section><!-- End harga Section -->
+
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
             class="bi bi-arrow-up"></i></a>
