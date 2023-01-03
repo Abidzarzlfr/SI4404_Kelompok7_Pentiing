@@ -9,7 +9,7 @@
             <div class="col-lg-6 py-6 px-5">
                 <h1 class="display-5 mb-4">Welcome To <span class="text-primary">PENTIING</span></h1>
                 <h4 class="text-primary mb-4">Persiapan sebelum menjadi pasangan suami istri dan menjadi orang tua</h4>
-                <p class="mb-4">Pentiing akan membantu calon pasangan suami istri dalam persiapa pernikahan dan membantu
+                <p class="mb-4">Pentiing akan membantu para calon pasangan suami istri dalam persiapa pernikahan dan membantu
                     orang tua dalam mengasuh anak. Pentiing menyediakan banyak modul dan artikel</p>
             </div>
             <div class="col-lg-6">

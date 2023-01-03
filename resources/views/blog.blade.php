@@ -32,7 +32,7 @@
                                     class="flex-shrink-0 d-flex flex-column justify-content-center text-center bg-primary text-white px-4">
                                     <span>01</span>
                                     <h5 class="text-uppercase m-0">Des</h5>
-                                    <span>2022
+                                    <span>2023
                                     </span>
                                 </div>
                                 <div class="d-flex flex-column justify-content-center py-3 px-4">
@@ -40,7 +40,7 @@
                                         <small class="text-uppercase me-3"><i class="bi bi-person me-2"></i>Member</small>
                                         <small class="text-uppercase me-3"><i class="bi bi-bookmarks me-2"></i>Baby</small>
                                     </div>
-                                    <a class="h4" href="">Kenali Tangisan pada Anak</a>
+                                    <a class="h4" href="">Kenali Tangisan pada Anak anda</a>
                                 </div>
                             </div>
                         </div>
