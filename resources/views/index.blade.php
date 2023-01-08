@@ -8,22 +8,22 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+                    <img class="w-100" src="img/maincarousel1.png" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase">Pentiing | Married & Parenting</h5>
-                            <h1 class="display-1 text-white mb-md-4">Persiapkan Diri Sebelum Menikah</h1>
+                            <h3 class="display-1 text-white mb-md-4">Persiapkan Diri Sebelum Menikah</h3>
                             <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Member</a>
                             <a href="" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Konsultasi</a>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/carousel-2.jpg" alt="Image">
+                    <img class="w-100" src="img/maincarousel1.png" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase">Pentiing | Married & Parenting</h5>
-                            <h1 class="display-1 text-white mb-md-4">Menjadi Orang Tua dan Sahabat Anak</h1>
+                            <h3 class="display-1 text-white mb-md-4">Menjadi Orang Tua dan Sahabat Anak</h3>
                             <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Member</a>
                             <a href="" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Konsultasi</a>
                         </div>
@@ -61,7 +61,7 @@
             <div class="col-lg-6">
                 <div class="h-100 d-flex flex-column justify-content-center bg-primary p-5">
                     <div class="d-flex text-white mb-5">
-                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-primary rounded-circle mx-auto mb-4"
+                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-warning rounded-circle mx-auto mb-4"
                             style="width: 60px; height: 60px;">
                             <i class="fa fa-user-tie fs-4"></i>
                         </div>
@@ -75,7 +75,7 @@
                         </div>
                     </div>
                     <div class="d-flex text-white mb-5">
-                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-primary rounded-circle mx-auto mb-4"
+                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-warning rounded-circle mx-auto mb-4"
                             style="width: 60px; height: 60px;">
                             <i class="fa fa-book fs-4"></i>
                         </div>
@@ -90,7 +90,7 @@
                         </div>
                     </div>
                     <div class="d-flex text-white">
-                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-primary rounded-circle mx-auto mb-4"
+                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-warning rounded-circle mx-auto mb-4"
                             style="width: 60px; height: 60px;">
                             <i class="fa fa-users fs-4"></i>
                         </div>
@@ -112,13 +112,13 @@
     <!-- Services Start -->
     <div class="container-fluid pt-6 px-5">
         <div class="text-center mx-auto mb-5" style="max-width: 600px;">
-            <h1 class="display-5 mb-0">Tawaran Kami</h1>
+            <h1 class="display-5 mb-0">Our Offer</h1>
             <hr class="w-25 mx-auto bg-primary">
         </div>
         <div class="row g-5">
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-user-tie fa-2x"></i>
                     </div>
@@ -128,8 +128,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-venus-mars fa-2x"></i>
                     </div>
@@ -138,8 +138,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-baby fa-2x"></i>
                     </div>
@@ -149,8 +149,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-child fa-2x"></i>
                     </div>
@@ -161,8 +161,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-user fa-2x"></i>
                     </div>
@@ -173,8 +173,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-coins fa-2x"></i>
                     </div>
@@ -192,8 +192,8 @@
     <!-- Features Start -->
     <div class="container-fluid py-6 px-5">
         <div class="text-center mx-auto mb-5" style="max-width: 600px;">
-            <h1 class="display-5 mb-0">Kenapa Memilih Kami!!!</h1>
-            <hr class="w-25 mx-auto bg-primary">
+            <h1 class="display-5 mb-0">Features</h1>
+            <hr class="w-25 mx-auto bg-secondary">
         </div>
         <div class="row g-5">
             <div class="col-lg-4">
@@ -201,7 +201,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-cubes fs-4 text-white"></i>
+                            <i class="fa fa-cubes fs-4 text-warning"></i>
                         </div>
                         <h3>Terbaik</h3>
                         <p class="mb-0">
@@ -211,7 +211,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-percent fs-4 text-white"></i>
+                            <i class="fa fa-percent fs-4 text-warning"></i>
                         </div>
                         <h3>90% Pelanggan Kami Puas</h3>
                         <p class="mb-0">
@@ -221,7 +221,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-award fs-4 text-white"></i>
+                            <i class="fa fa-award fs-4 text-warning"></i>
                         </div>
                         <h3>Sudah Diakui</h3>
                         <p class="mb-0">Pentiing sudah diakui dalam pelayanan yang sudah profesional</p>
@@ -230,7 +230,8 @@
             </div>
             <div class="col-lg-4">
                 <div class="d-block bg-primary h-100 text-center">
-                    <img class="img-fluid" src="img/feature.jpg" alt="">
+                </br>
+                    <img class="img-fluid" src="img/dokter.png" alt="">
                     <div class="p-4">
                         <p class="text-white mb-4">
                             Konsultan Renjun merupakan salah satu konsultan terbaik yang ada pada Pentiing. Anda bisa
@@ -247,7 +248,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="far fa-smile-beam fs-4 text-white"></i>
+                            <i class="far fa-smile-beam fs-4 text-warning"></i>
                         </div>
                         <h3>100% Menjadi Keluarga Bahagia</h3>
                         <p class="mb-0">
@@ -257,7 +258,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-user-tie fs-4 text-white"></i>
+                            <i class="fa fa-user-tie fs-4 text-warning"></i>
                         </div>
                         <h3>Profesional Konsultan</h3>
                         <p class="mb-0">Pentiing menyediakan konsultan yang sudah berpengalaman dalam bidangnya</p>
@@ -265,7 +266,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-headset fs-4 text-white"></i>
+                            <i class="fa fa-headset fs-4 text-warning"></i>
                         </div>
                         <h3>24/7 Selalu Ada</h3>
                         <p class="mb-0">Pentiing selalu ada dan selalu sedia</p>
@@ -280,62 +281,106 @@
 
 
     <!-- Team Start -->
-    <div class="container-fluid py-6 px-5">
-        <div class="text-center mx-auto mb-5" style="max-width: 600px;">
-            <h1 class="display-5 mb-0">Our Team Members</h1>
-            <hr class="w-25 mx-auto bg-primary">
-        </div>
-        <div class="row g-5">
-            <div class="col-lg-4">
-                <div class="team-item position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="img/team-1.jpg" alt="">
-                    <div class="team-text w-100 position-absolute top-50 text-center bg-primary p-4">
-                        <h3 class="text-white">RENJUN</h3>
-                        <p class="text-white text-uppercase mb-0">Web Developer</p>
-                    </div>
+    <div class="container bootdey mt-5 mb-5">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="section-title mb-4 pb-2">
+                    <h1 class="title mb-4">Our Project Teams</h1>
                 </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="team-item position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="img/team-2.jpg" alt="">
-                    <div class="team-text w-100 position-absolute top-50 text-center bg-primary p-4">
-                        <h3 class="text-white">JENO</h3>
-                        <p class="text-white text-uppercase mb-0">Project Manager</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="team-item position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="img/team-3.jpg" alt="">
-                    <div class="team-text w-100 position-absolute top-50 text-center bg-primary p-4">
-                        <h3 class="text-white">JAEMIN</h3>
-                        <p class="text-white text-uppercase mb-0">Designation</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
+            </div><!--end col-->
+        </div><!--end row-->
 
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="img/faraz.png" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Mufadhal Faraz Addhifa</h4>
+                        <small class="text-muted">Project Manager</small>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Google +"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
+                        </ul><!--end icon-->
+                    </div>
+                </div>
+            </div><!--end col-->
+            
+            <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="img/abidzar.png" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Abidzar Zulfa Arifa K</h4>
+                        <small class="text-muted">Frontend Developer</small>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Google +"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
+                        </ul><!--end icon-->
+                    </div>
+                </div>
+            </div><!--end col-->
+            
+            <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="img/gio.png" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Giovanny Napitupulu</h4>
+                        <small class="text-muted">Backend Engineer</small>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Google +"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
+                        </ul><!--end icon-->
+                    </div>
+                </div>
+            </div><!--end col-->
+            
+            <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="img/fio.png" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Fiola Avicena Yusri</h4>
+                        <small class="text-muted">Technical Writer</small>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Google +"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
+                        </ul><!--end icon-->
+                        </br>
+                        </br>
+                    </div>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+    </div>
 
     <!-- Testimonial Start -->
-    <div class="container-fluid bg-secondary p-0">
+    <div class="container-fluid bg-primary p-0">
         <div class="row g-0">
             <div class="col-lg-6" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100" src="img/testimonial.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100" src="img/testi2.png" style="object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-6 py-6 px-5">
-                <h1 class="display-5 mb-4">Seruan Testimoni!!!</h1>
+                <h1 class="display-5 mb-4">Feedback</h1>
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item">
-                        <p class="fs-4 fw-normal mb-4"><i class="fa fa-quote-left text-primary me-3"></i>
+                        <p class="fs-4 fw-normal mb-4"><i class="fa fa-quote-left text-secondary me-3"></i>
                             Pentiing benar-benar sangat membantu saya dalam menjalankan rumah tangga saya. Mereka membantu 
                         mulai dari persiapan pernikahan hingga akhirnya saya memiliki anak dan jangan lupa dengan konsultasi finansial 
                     yang disediakan.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
+                            <img class="img-fluid rounded-circle" src="img/profile1.png" alt="">
                             <div class="ps-4">
                                 <h3>Magdalena Natalia</h3>
                                 <span class="text-uppercase">Ibu Rumah Tangga</span>
@@ -347,7 +392,7 @@
                         Dengan adanya pentiing, saya menjadi tahu bagaimana menghadapi anak saya yang sangat suka tantrum dan 
                     juga bagaimana menyiapkan finansial yang baik untuk persiapan anak saya sekolah</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-circle" src="img/testimonial-2.jpg" alt="">
+                            <img class="img-fluid rounded-circle" src="img/profile2.png" alt="">
                             <div class="ps-4">
                                 <h3>Marissa Claudia</h3>
                                 <span class="text-uppercase">Pegawai Kantoran</span>
@@ -371,7 +416,7 @@
             <div class="col-lg-4">
                 <div class="blog-item">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="img/artikel1.png" alt="">
                     </div>
                     <div class="bg-secondary d-flex">
                         <div
@@ -385,7 +430,7 @@
                                 <small class="text-uppercase me-3"><i class="bi bi-person me-2"></i>Member</small>
                                 <small class="text-uppercase me-3"><i class="bi bi-bookmarks me-2"></i>Toodler</small>
                             </div>
-                            <a class="h4" href="">Tantrum? Jangan Dibujuk!</a>
+                            <a class="h4" href="">Tantrum? Jangan Dibujuk! berikan pengertian</a>
                         </div>
                     </div>
                 </div>
@@ -393,7 +438,7 @@
             <div class="col-lg-4">
                 <div class="blog-item">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-2.jpg" alt="">
+                        <img class="img-fluid" src="img/artikel2.png" alt="">
                     </div>
                     <div class="bg-secondary d-flex">
                         <div
@@ -415,7 +460,7 @@
             <div class="col-lg-4">
                 <div class="blog-item">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-3.jpg" alt="">
+                        <img class="img-fluid" src="img/artikel3.png" alt="">
                     </div>
                     <div class="bg-secondary d-flex">
                         <div
@@ -429,7 +474,7 @@
                                 <small class="text-uppercase me-3"><i class="bi bi-person me-2"></i>Free</small>
                                 <small class="text-uppercase me-3"><i class="bi bi-bookmarks me-2"></i>BeMarried</small>
                             </div>
-                            <a class="h4" href="">Mengapa Restu Orang Tua Penting?</a>
+                            <a class="h4" href="">penyebab kekerasan terhadap anak</a>
                         </div>
                     </div>
                 </div>

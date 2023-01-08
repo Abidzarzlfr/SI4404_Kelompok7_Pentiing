@@ -9,7 +9,7 @@
             <div class="col-12 text-center">
                 <h1 class="display-4 text-white">Modul</h1>
                 <a href="">Beranda</a>
-                <i class="far fa-square text-primary px-2"></i>
+                <i class="far text-primary px-2"></i>
                 <a href="">Modul</a>
             </div>
         </div>
@@ -25,7 +25,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel1.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -48,7 +48,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel2.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -71,7 +71,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel3.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -94,7 +94,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel1.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -117,7 +117,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel2.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -140,7 +140,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel3.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -163,7 +163,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel1.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -186,7 +186,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel2.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -209,7 +209,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel3.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div
@@ -233,7 +233,7 @@
                     <div class="col-xl-6 col-lg-12 col-md-6">
                         <div class="blog-item">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                                <img class="img-fluid" src="img/artikel1.png" alt="">
                             </div>
                             <div class="bg-secondary d-flex">
                                 <div

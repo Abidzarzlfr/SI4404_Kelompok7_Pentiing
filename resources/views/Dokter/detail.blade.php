@@ -1,11 +1,4 @@
-@if (Auth::user()->role == 'dokter')
-@extends('layout.dokter')
-
-    
-@else
-@extends('layout.main')   
-
-@endif
+@extends(Auth::user()->role == 'dokter'?'layout.dokter':'layout.main')
 
 <!-- Title-->
 @section('title')

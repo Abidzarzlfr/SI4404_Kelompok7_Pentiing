@@ -1,11 +1,5 @@
-@if (Auth::user()->role == 'dokter')
-@extends('layout.dokter')
+@extends(Auth::user()->role == 'dokter'?'layout.dokter':'layout.main')
 
-    
-@else
-@extends('layout.main')   
-
-@endif
 <!-- Title-->
 @section('title')
     Pentiing | List Konsultasi

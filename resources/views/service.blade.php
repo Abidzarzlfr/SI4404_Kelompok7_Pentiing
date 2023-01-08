@@ -9,7 +9,7 @@
             <div class="col-12 text-center">
                 <h1 class="display-4 text-white">Konsultasi</h1>
                 <a href="">Beranda</a>
-                <i class="far fa-square text-primary px-2"></i>
+                <i class="far text-primary px-2"></i>
                 <a href="">Konsultasi </a>
             </div>
         </div>
@@ -17,15 +17,15 @@
     <!-- Page Header End -->
 
     <!-- Services Start -->
-    <div class="container-fluid pt-6 px-5">
+    <div class="container-fluid pt-6 px-5 mb-5">
         <div class="text-center mx-auto mb-5" style="max-width: 600px;">
-            <h1 class="display-5 mb-0">Tawaran Kami</h1>
+            <h1 class="display-5 mb-0">Our Offer</h1>
             <hr class="w-25 mx-auto bg-primary">
         </div>
         <div class="row g-5">
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-user-tie fa-2x"></i>
                     </div>
@@ -35,8 +35,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-venus-mars fa-2x"></i>
                     </div>
@@ -45,8 +45,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-baby fa-2x"></i>
                     </div>
@@ -56,8 +56,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-child fa-2x"></i>
                     </div>
@@ -68,8 +68,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-user fa-2x"></i>
                     </div>
@@ -80,8 +80,8 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="service-item bg-secondary text-center px-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4"
+                <div class="service-item bg-primary text-center px-5">
+                    <div class="d-flex align-items-center justify-content-center bg-secondary text-warning rounded-circle mx-auto mb-4"
                         style="width: 90px; height: 90px;">
                         <i class="fa fa-coins fa-2x"></i>
                     </div>
@@ -93,7 +93,6 @@
             </div>
         </div>
     </div>
-    <!-- Services End -->
 
 
     <!-- Quote Start -->
@@ -165,7 +164,7 @@
             </div>
             <div class="col-lg-6" style="min-height: 400px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100" src="img/quote.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100" src="img/dokter.png" style="object-fit: cover;">
                 </div>
             </div>
         </div>

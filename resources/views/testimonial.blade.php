@@ -6,7 +6,7 @@
             <div class="col-12 text-center">
                 <h1 class="display-4 text-white">Testimonial</h1>
                 <a href="">Home</a>
-                <i class="far fa-square text-primary px-2"></i>
+                <i class="far text-primary px-2"></i>
                 <a href="">Testimonial</a>
             </div>
         </div>

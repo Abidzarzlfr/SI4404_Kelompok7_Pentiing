@@ -1,9 +1,11 @@
 /********** Template CSS **********/
 :root {
-    --primary: #75b8dc ;
+    --primary: #92B4EC ;
     --secondary: #F6F6F6;
     --light: #FFFFFF;
     --dark: #152440;
+    --yellow_soft: #FCEEC4; 
+    --yellow: #FFD24C;
 }
 
 h1,
@@ -176,6 +178,7 @@ h6,
 
 .service-item p {
     transition: .3s;
+    color: #EEEEEE;
 }
 
 .service-item:hover p {

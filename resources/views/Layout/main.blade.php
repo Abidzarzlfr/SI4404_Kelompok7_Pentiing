@@ -37,6 +37,7 @@
         <!-- Navbar Start -->
         <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
             <a href="/" class="navbar-brand p-0">
+                <!-- logo di navbar -->
                 <img class="img mx-auto" src="img/pentiing_logo.png" width="142">
                 <!-- <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-family text-primary me-2"></i>Pentiing</h1> -->
             </a>

@@ -52,7 +52,9 @@
 
             <!-- Brand -->
             <a class="navbar-brand" href="#">
-                <p>Logo Pentiing</p>
+                <!-- <p>Logo Pentiing</p> -->
+                <!-- logo di navbar -->
+                <img class="img mx-auto" src="img/pentiing_logo.png" width="142">
             </a>
             <!-- Avatar -->
 

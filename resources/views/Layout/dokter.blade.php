@@ -32,7 +32,8 @@
     <!-- Navbar Start -->
     <nav class="navbar sticky-md-top navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-4 py-lg-0">
         <a href="/" class="navbar-brand p-0 p-2">
-            <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-family text-primary me-2"></i>Pentiing</h1>
+           <!-- logo di navbar -->
+           <img class="img mx-auto" src="img/pentiing_logo.png" width="142">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -55,21 +56,6 @@
         </div>
     </nav>
     <!--navbar end-->
-
-    <!--topbar-->
-    <div class="container-fluid bg-secondary ps-5 pe-0 d-none d-lg-block">
-        <div class="row gx-0" style="padding-left: 12%;padding-right: 10%">
-            <div class="col-md-6 text-center text-lg-start mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center">
-                    <a class="text-body py-2 pe-3 border-end" href="/"><small>FAQs</small></a>
-                    <a class="text-body py-2 px-3 border-end" href="/a"><small>Support</small></a>
-                    <a class="text-body py-2 px-3 border-end" href=""><small>Privacy</small></a>
-                    <a class="text-body py-2 px-3 border-end" href=""><small>Policy</small></a>
-                    <a class="text-body py-2 ps-3" href=""><small>Career</small></a>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!--container full-->
     <div class="container-fluid">
