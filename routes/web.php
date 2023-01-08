@@ -4,6 +4,7 @@ use App\Http\Controllers\ConsultationController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\DokterController;
 use App\Http\Controllers\FaqController;
+use App\Http\Controllers\JawabanController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
@@ -20,43 +21,53 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('index');
-});
+})->name('index');
 
 Route::get('/contact', function () {
     return view('contact');
 });
+
 Route::get('/about', function () {
     return view('about');
 });
+
+
 
 Route::get('/blog', function () {
     return view('blog');
 });
 
-Route::get('/detail', function () {
-    return view('detail');
-});
 
 Route::get('/feature', function () {
     return view('feature');
+})->name('feature');
+
+Route::get('/workshop', function () {
+    return view('workshop');
+})->name('workshop');
+
+//route pemesanan membership
+Route::middleware(['auth'])->group(function () {
+    Route::get('/pemesanan/{type}', function ($type) {
+        return view('pemesanan', ['type' => $type]);
+    })->name('pemesanan');
+    Route::post('/pemesanan', [UserController::class, 'setType'])->name('pemesanan.action');
+    Route::post('/jawab', [JawabanController::class, 'store'])->name('jawaban.action');
+    Route::get('/profile', function () {
+        return view('profile');
+    })->name('profile');
+    Route::post('/profile', [UserController::class, 'update'])->name('user.action');
+    Route::get('/konsultasi/{id}', [DokterController::class, 'detail'])->name('user.question.detail');
 });
 
+
+//route testimonial
 Route::get('/testimonial', function () {
     return view('testimonial');
 });
 
-
-
-//routing contact
-Route::post('/faq', [FaqController::class, 'store'])->name('faq.submit');
-
-//Routing Admin
-Route::middleware(['auth', 'roleCek:admin'])->group(function () {
-    Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
-});
-
-Route::middleware(['auth'])->group(function () {
-    //routing konsultasi
+//Routing gold dan platinum ->konsultasi
+Route::middleware(['auth', 'CekType:gold,platinum'])->group(function () {
     Route::get('/service', function () {
         return view('service');
     })->name('service');
@@ -64,7 +75,26 @@ Route::middleware(['auth'])->group(function () {
     Route::post('/service', [ConsultationController::class, 'store'])->name('service.post');
 });
 
-Route::middleware(['auth', 'roleCek:dokter'])->group(function () {
+//routing platinum
+Route::middleware(['auth', 'CekType:platinum'])->group(function () {
+    Route::get('/detail', function () {
+        return view('detail');
+    });
+});
+
+//routing contact
+Route::post('/faq', [FaqController::class, 'store'])->name('faq.submit');
+
+//Routing Admin
+Route::middleware(['auth', 'roleCek:admin'])->group(function () {
+    Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
+    Route::get('/transaction', [DashboardController::class, 'transaction'])->name('transaction');
+    Route::delete('/user/delete', [DashboardController::class, 'destroyUser'])->name('destroy.user');
+});
+
+
+
+Route::middleware(['auth', 'roleCek:dokter,user'])->group(function () {
     Route::get('/dokter/konsultasi', [DokterController::class, 'index'])->name('dokter.konsultasi');
     Route::get('/dokter/konsultasi/{id}', [DokterController::class, 'detail'])->name('question.detail');
 });
@@ -75,15 +105,3 @@ Route::get('/logout', [UserController::class, 'logout'])->name('logout');
 Route::post('/login', [UserController::class, 'login_action'])->name('login.action');
 Route::get('/register', [UserController::class, 'register'])->name('register');
 Route::post('/register', [UserController::class, 'register_action'])->name('register.action');
-
-Route::get('/blog ', [UserController::class, 'blog '])->name('blog ');
-Route::get('/blog ', [UserController::class, 'blog_action'])->name('blog.action ');
-
-Route::get('/detail ', [UserController::class, 'detail '])->name('detail ');
-Route::get('/detail ', [UserController::class, 'detail_action'])->name('detail.action ');
-
-Route::get('/feature ', [UserController::class, 'feature '])->name('feature');
-Route::get('/feature ', [UserController::class, 'feature_action'])->name('feature.action ');
-
-Route::get('/testimonial ', [UserController::class, 'testimonial '])->name('testimonial');
-Route::get('/testimonial ', [UserController::class, 'testimonial_action'])->name('testimonial.action ');

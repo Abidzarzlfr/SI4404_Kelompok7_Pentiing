@@ -13,15 +13,15 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('consultations', function (Blueprint $table) {
+        Schema::create('transactions', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
-            $table->string('name');
-            $table->string('email');
-            $table->string('topic');
-            $table->string('question');
-            $table->text('description');
-            $table->foreignId("user_id")->constrained()->onDelete('cascade');
+            $table->string('nama');
+            $table->string('nik');
+            $table->string('no_hp');
+            $table->date('tanggal_pemesanan');
+            $table->string('paket');
+            $table->string('pembayaran');
         });
     }
 
@@ -32,6 +32,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('consultations');
+        Schema::dropIfExists('transactions');
     }
 };

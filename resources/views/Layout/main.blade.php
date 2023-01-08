@@ -52,12 +52,15 @@
                     <a href="/contact" class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Kontak</a>
                     @auth
                         <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{Auth::user()->name}}</a>
+                            <a href="#" class="nav-link dropdown-toggle"
+                                data-bs-toggle="dropdown">{{ Auth::user()->name }}</a>
                             <div class="dropdown-menu m-0">
                                 <a href="/blog" class="dropdown-item">Modul</a>
                                 <a href="/detail" class="dropdown-item">Komunitas</a>
                                 <a href="/feature" class="dropdown-item">Membership</a>
+                                <a href="/workshop" class="dropdown-item">Workshop</a>
                                 <a href="/testimonial" class="dropdown-item">Testimonial</a>
+                                <a href="{{ route('profile') }}" class="dropdown-item">profile</a>
                                 <a href="{{ route('logout') }}" class="dropdown-item">logout</a>
                             </div>
                         </div>
@@ -70,6 +73,10 @@
         <!-- Navbar End -->
         <div class="container-fluid">
             @yield('content')
+        </div>
+
+        <div class="container mt-5 mb-5" style="width: 70%">
+            @yield('content2')
         </div>
         <!-- Footer Start -->
         <div class="container-fluid bg-dark text-secondary p-5">
@@ -139,6 +146,8 @@
         <script src="lib/easing/easing.min.js"></script>
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
