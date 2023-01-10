@@ -292,12 +292,12 @@
                 <div class="mb-5">
                     <h2 class="mb-4">Kategori</h2>
                     <div class="d-flex flex-column justify-content-start bg-secondary p-4">
-                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Be Married</a>
-                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Married</a>
-                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Baby</a>
-                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Toodler</a>
-                        <a class="h5" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Teen</a>
-                        <a class="h5" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Finansial</a>
+                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-warning me-2"></i>Be Married</a>
+                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-warning me-2"></i>Married</a>
+                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-warning me-2"></i>Baby</a>
+                        <a class="h5 mb-3" href="#"><i class="bi bi-arrow-right text-warning me-2"></i>Toodler</a>
+                        <a class="h5" href="#"><i class="bi bi-arrow-right text-warning me-2"></i>Teen</a>
+                        <a class="h5" href="#"><i class="bi bi-arrow-right text-warning me-2"></i>Finansial</a>
                     </div>
                 </div>
                 <!-- Category End -->
@@ -306,31 +306,31 @@
                 <div class="mb-5">
                     <h2 class="mb-4">Recent Post</h2>
                     <div class="d-flex mb-3">
-                        <img class="img-fluid" src="img/blog-1.jpg"
+                        <img class="img-fluid" src="img/rp1.png"
                             style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                        <a href="" class="h5 d-flex align-items-center bg-secondary px-3 mb-0">Menjadi Istri yang Bail
+                        <a href="" class="h5 d-flex align-items-center bg-secondary px-3 mb-0">Menjadi Istri yang Baik
                         </a>
                     </div>
                     <div class="d-flex mb-3">
-                        <img class="img-fluid" src="img/blog-1.jpg"
+                        <img class="img-fluid" src="img/rp2.png"
                             style="width: 100px; height: 100px; object-fit: cover;" alt="">
                         <a href="" class="h5 d-flex align-items-center bg-secondary px-3 mb-0">Membangun Karakter Anak
                         </a>
                     </div>
                     <div class="d-flex mb-3">
-                        <img class="img-fluid" src="img/blog-1.jpg"
+                        <img class="img-fluid" src="img/rp3.png"
                             style="width: 100px; height: 100px; object-fit: cover;" alt="">
                         <a href="" class="h5 d-flex align-items-center bg-secondary px-3 mb-0">Menjadi Sahabat Sekaligus Orang Tua yang Baik
                         </a>
                     </div>
                     <div class="d-flex mb-3">
-                        <img class="img-fluid" src="img/blog-1.jpg"
+                        <img class="img-fluid" src="img/rp4.png"
                             style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                        <a href="" class="h5 d-flex align-items-center bg-secondary px-3 mb-0">Bagaimana Menghadapi Resesi
+                        <a href="" class="h5 d-flex align-items-center bg-secondary px-3 mb-0">Menjadi Sahabat Anak
                         </a>
                     </div>
                     <div class="d-flex">
-                        <img class="img-fluid" src="img/blog-1.jpg"
+                        <img class="img-fluid" src="img/rp5.png"
                             style="width: 100px; height: 100px; object-fit: cover;" alt="">
                         <a href="" class="h5 d-flex align-items-center bg-secondary px-3 mb-0">Jangan Terlalu Posesif pada Anak
                         </a>
@@ -340,7 +340,7 @@
 
                 <!-- Image Start -->
                 <div class="mb-5">
-                    <img src="img/blog-1.jpg" alt="" class="img-fluid">
+                    <img src="img/logo_love_penting.png" alt="" class="img-fluid">
                 </div>
                 <!-- Image End -->
 
@@ -348,29 +348,27 @@
                 <div class="mb-5">
                     <h2 class="mb-4">Tag Cloud</h2>
                     <div class="d-flex flex-wrap m-n1">
-                        <a href="" class="btn btn-secondary m-1">Design</a>
-                        <a href="" class="btn btn-secondary m-1">Development</a>
-                        <a href="" class="btn btn-secondary m-1">Marketing</a>
-                        <a href="" class="btn btn-secondary m-1">SEO</a>
-                        <a href="" class="btn btn-secondary m-1">Writing</a>
-                        <a href="" class="btn btn-secondary m-1">Consulting</a>
-                        <a href="" class="btn btn-secondary m-1">Design</a>
-                        <a href="" class="btn btn-secondary m-1">Development</a>
-                        <a href="" class="btn btn-secondary m-1">Marketing</a>
-                        <a href="" class="btn btn-secondary m-1">SEO</a>
-                        <a href="" class="btn btn-secondary m-1">Writing</a>
-                        <a href="" class="btn btn-secondary m-1">Consulting</a>
+                        <a href="" class="btn btn-secondary m-1">Parenting</a>
+                        <a href="" class="btn btn-secondary m-1">Health</a>
+                        <a href="" class="btn btn-secondary m-1">Education</a>
+                        <a href="" class="btn btn-secondary m-1">Financial</a>
+                        <a href="" class="btn btn-secondary m-1">Food</a>
+                        <a href="" class="btn btn-secondary m-1">Family</a>
+                        <a href="" class="btn btn-secondary m-1">Child</a>
+                        <a href="" class="btn btn-secondary m-1">Parent</a>
+                        <a href="" class="btn btn-secondary m-1">Husband</a>
+                        <a href="" class="btn btn-secondary m-1">Wife</a>
+                        <a href="" class="btn btn-secondary m-1">House</a>
+                        <a href="" class="btn btn-secondary m-1">Baby</a>
                     </div>
                 </div>
                 <!-- Tags End -->
 
                 <!-- Plain Text Start -->
                 <div>
-                    <h2 class="mb-4">Plain Text</h2>
+                    <h2 class="mb-4"></br>About Us</h2>
                     <div class="bg-secondary text-center" style="padding: 30px;">
-                        <p>Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita
-                            kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet
-                            diam</p>
+                        <p>Pentiing akan membantu calon pasangan suami istri dalam persiapa pernikahan dan membantu orang tua dalam mengasuh anak. Pentiing menyediakan banyak modul dan artikel</p>
                         <a href="" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
                     </div>
                 </div>

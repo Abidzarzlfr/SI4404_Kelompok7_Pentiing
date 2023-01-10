@@ -22,19 +22,26 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
+    <!-- Libraries Stylesheet -->
+    <link href="{{ asset('lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
+
     <!-- Customized Bootstrap Stylesheet -->
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
 
 </head>
 
 <body>
     <!-- Navbar Start -->
-    <nav class="navbar sticky-md-top navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-4 py-lg-0">
-        <a href="/" class="navbar-brand p-0 p-2">
-           <!-- logo di navbar -->
-           <img class="img mx-auto" src="img/pentiing_logo.png" width="142">
-        </a>
+    <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
+        <a href="/" class="navbar-brand p-0">
+                <!-- logo di navbar -->
+                <img class="img mx-auto" src="{{asset('img/pentiing_logo.png')}}" width="142">
+                <!-- <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-family text-primary me-2"></i>Pentiing</h1> -->
+         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -56,6 +63,18 @@
         </div>
     </nav>
     <!--navbar end-->
+    <!-- Page Header Start -->
+    <div class="container-fluid bg-dark p-5">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="display-4 text-white">List Konsultasi</h1>
+                <a href="">Home</a>
+                <i class="far text-primary px-2"></i>
+                <a href="">Testimonial</a>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
 
     <!--container full-->
     <div class="container-fluid">
@@ -128,6 +147,18 @@
             Rights Reserved. Designed by <a class="text-secondary border-bottom" href="https://htmlcodex.com">HTML
                 Codex</a></p>
     </div>
+    <!-- JavaScript Libraries -->
+    <!-- <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
+
+
+        <!-- Template Javascript -->
+        <!-- <script src="js/main.js"></script> -->
+
     <!--footer end-->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>

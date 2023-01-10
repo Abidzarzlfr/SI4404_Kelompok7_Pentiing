@@ -9,7 +9,7 @@
             <div class="col-12 text-center">
                 <h1 class="display-4 text-white">Membership</h1>
                 <a href="">Beranda</a>
-                <i class="far fa-square text-primary px-2"></i>
+                <i class="far text-primary px-2"></i>
                 <a href="">Membership</a>
             </div>
         </div>
@@ -26,8 +26,8 @@
     <!-- Features Start -->
     <div class="container-fluid py-6 px-5">
         <div class="text-center mx-auto mb-5" style="max-width: 600px;">
-            <h1 class="display-5 mb-0">Kenapa Memilih Kami!!</h1>
-            <hr class="w-25 mx-auto bg-primary">
+            <h1 class="display-5 mb-0">Features</h1>
+            <hr class="w-25 mx-auto bg-secondary">
         </div>
         <div class="row g-5">
             <div class="col-lg-4">
@@ -35,7 +35,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-cubes fs-4 text-white"></i>
+                            <i class="fa fa-cubes fs-4 text-warning"></i>
                         </div>
                         <h3>Terbaik</h3>
                         <p class="mb-0">
@@ -45,7 +45,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-percent fs-4 text-white"></i>
+                            <i class="fa fa-percent fs-4 text-warning"></i>
                         </div>
                         <h3>90% Pelanggan Kami Puas</h3>
                         <p class="mb-0">
@@ -55,7 +55,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-award fs-4 text-white"></i>
+                            <i class="fa fa-award fs-4 text-warning"></i>
                         </div>
                         <h3>Sudah Diakui</h3>
                         <p class="mb-0">Pentiing sudah diakui dalam pelayanan yang sudah profesional</p>
@@ -64,7 +64,8 @@
             </div>
             <div class="col-lg-4">
                 <div class="d-block bg-primary h-100 text-center">
-                    <img class="img-fluid" src="img/feature.jpg" alt="">
+                </br>
+                    <img class="img-fluid" src="img/dokter.png" alt="">
                     <div class="p-4">
                         <p class="text-white mb-4">
                             Konsultan Renjun merupakan salah satu konsultan terbaik yang ada pada Pentiing. Anda bisa
@@ -81,7 +82,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="far fa-smile-beam fs-4 text-white"></i>
+                            <i class="far fa-smile-beam fs-4 text-warning"></i>
                         </div>
                         <h3>100% Menjadi Keluarga Bahagia</h3>
                         <p class="mb-0">
@@ -91,7 +92,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-user-tie fs-4 text-white"></i>
+                            <i class="fa fa-user-tie fs-4 text-warning"></i>
                         </div>
                         <h3>Profesional Konsultan</h3>
                         <p class="mb-0">Pentiing menyediakan konsultan yang sudah berpengalaman dalam bidangnya</p>
@@ -99,7 +100,7 @@
                     <div class="col-12">
                         <div class="bg-primary rounded-circle d-flex align-items-center justify-content-center mb-3"
                             style="width: 60px; height: 60px;">
-                            <i class="fa fa-headset fs-4 text-white"></i>
+                            <i class="fa fa-headset fs-4 text-warning"></i>
                         </div>
                         <h3>24/7 Selalu Ada</h3>
                         <p class="mb-0">Pentiing selalu ada dan selalu sedia</p>
@@ -116,12 +117,12 @@
 
             <div class="section-title">
                 <div class="text-center mx-auto mb-5" style="max-width: 600px;">
-                    <h1 class="display-5 mb-0">Membersip with Us</h1>
+                    <h1 class="display-5 mb-0 mt-5"></br>Membersip Package</br></h1>
                     <hr class="w-25 mx-auto bg-primary">
                 </div>
-                <p>
+                <!-- <p>
                     Berikut penawaran harga yang kami sediakan disertai dengan fitur yang dapat diakses :
-                </p>
+                </p> -->
             </div>
             <center>
                 <div class="row mt-5 mb-5">
@@ -166,6 +167,8 @@
                     </div>
                 </div>
             </center>
+            </br>
+            </br>
 
         </div>
     </section><!-- End harga Section -->

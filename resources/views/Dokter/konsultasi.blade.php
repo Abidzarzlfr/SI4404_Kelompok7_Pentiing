@@ -7,6 +7,7 @@
 
 <!-- Content dalam container-->
 @section('content2')
+    <!-- List Konsultasi -->
     <div class="row mt-3">
 
         <div class="col">
@@ -50,10 +51,6 @@
                     </div>
                 </div>
             @endforeach
-        </div>
-        <div class="col-4">
-            <img src="https://tpc.googlesyndication.com/simgad/6895236797989058468" alt="">
-            <img src="https://tpc.googlesyndication.com/simgad/6895236797989058468" alt="">
         </div>
     </div>
 @endsection
